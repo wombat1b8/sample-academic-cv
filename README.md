@@ -5,6 +5,8 @@ A clean, single-page academic CV template (A4) built with plain HTML + print CSS
 - `index.html` – the CV source (edit this; open in a browser)
 - `cv.pdf` – pre-rendered one-page PDF
 
+Live page: https://wombat1b8.github.io/sample-academic-cv/
+
 ## Print / export
 Open `index.html` in Chrome → Print → A4, margins *Default*, background graphics off. Or:
 
